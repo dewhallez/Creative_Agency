@@ -1,2 +1,4 @@
-A simple website with just html, css and javascript
+A simple website with learning HTML and CSS, some Javascript as well
+
+
 
