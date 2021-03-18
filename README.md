@@ -1,4 +1,4 @@
-A simple website with learning HTML and CSS, some Javascript as well
+A simple website project learning HTML and CSS, some Javascript with Traversy Media on Youtube.
 
 
 
